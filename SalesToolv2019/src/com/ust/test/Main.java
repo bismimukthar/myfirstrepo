@@ -10,6 +10,8 @@ public class Main {
 	public static void displayGreeting()
 	{
 		System.out.println("success");
+		System.out.println("Test1");
+		System.out.println("ust uyiru");
 	}
 
 }
